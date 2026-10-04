@@ -146,7 +146,10 @@ I believe in staying curious, keeping things simple, and getting a little better
   <a href="https://www.linkedin.com/in/nurul-hasan27" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
   </a>&nbsp;&nbsp;
-  <a href="https://medium.com/@nurulhasan" target="_blank" rel="noopener noreferrer">
+    <a href="https://hashnode.com/@nurulhasan" target="_blank" rel="noopener noreferrer">
+      <img src="https://cdn.simpleicons.org/hashnode/2962FF" alt="Hashnode" width="40" />
+    </a>&nbsp;&nbsp;
+  <a href="https://medium.com/@mdnurulhasan1111" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Medium.svg" alt="Medium" width="40" />
   </a>&nbsp;&nbsp;
   <a href="https://in.pinterest.com/nurul_hasan27/" target="_blank" rel="noopener noreferrer">
@@ -171,4 +174,4 @@ I believe in staying curious, keeping things simple, and getting a little better
 
 <br>
 
-<p align="center"><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/nurul_hasan27" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+<p align="center"><a href="https://buymeacoffee.com/nurul_hasan27" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
