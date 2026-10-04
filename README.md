@@ -19,16 +19,12 @@
 
 <h3 align="left">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"></h1>
 
-I'm a Computer Science undergraduate at **IIIT Bhubaneswar** with a strong curiosity about how technology works under the hood. I enjoy understanding things from first principles, exploring new ideas, and constantly challenging myself to learn something new.
+I'm a ```Computer Science undergraduate``` at **IIIT Bhubaneswar**, passionate about technology and curious about how things work under the hood. I enjoy exploring new ideas, building things, and understanding concepts from first principles.
 
-I'm someone who loves building, experimenting, and figuring things out. I believe the best way to learn is by getting hands-on, asking questions, and diving deep into unfamiliar territory. I'm always looking for opportunities to grow as an engineer and turn my curiosity into meaningful work.
+I believe the best way to learn is by experimenting, asking questions, and stepping outside my comfort zone. I'm always looking for opportunities to grow as an engineer and turn my curiosity into meaningful work.
 
-Beyond tech, you'll probably find me playing badminton 🏸, watching movies 🎬, travelling to new places ✈️, or discovering something new.
-
-I believe in staying curious, keeping things simple, and getting a little better every day.
-
-**Always learning. Always building. Always exploring.** 🚀
-
+Beyond tech, I enjoy playing badminton 🏸, watching movies 🎬, travelling to new places, and discovering something new..
+>
 </td>
   </tr>
 </table>
